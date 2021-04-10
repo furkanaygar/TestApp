@@ -1,0 +1,52 @@
+2021-04-10 17:00:31.649 INFO  TestClass:21 - Anasayfa acıldı.
+2021-04-10 17:01:40.000 INFO  TestClass:21 - Anasayfa acıldı.
+2021-04-10 17:04:00.265 INFO  TestClass:21 - Anasayfa acıldı.
+2021-04-10 18:30:15.653 INFO  TestClass:21 - The Home Page is opened.
+2021-04-10 18:30:25.927 INFO  TestClass:30 - The Sign Up page is opened.
+2021-04-10 18:30:32.110 INFO  TestClass:34 - Signing Up is successful.
+2021-04-10 18:30:43.373 INFO  TestClass:36 - Searching is successful.
+2021-04-10 18:30:55.234 INFO  TestClass:38 - Searching in second page is successful.
+2021-04-10 18:31:03.554 INFO  TestClass:40 - Selecting random product from second page is successful.
+2021-04-10 18:31:12.037 INFO  TestClass:42 - Adding random product to basket is successful.
+2021-04-10 18:31:21.395 INFO  TestClass:44 - Price Comparison between basket and product is successful.
+2021-04-10 18:31:24.858 INFO  TestClass:46 - Changing the count of the product was added to the basket to two.
+2021-04-10 18:31:28.127 INFO  TestClass:48 - The all products which are in basket, are removed.The test is finished successfully.
+2021-04-10 18:49:21.770 INFO  TestClass:21 - The Home Page is opened.
+2021-04-10 18:49:31.668 INFO  TestClass:30 - The Sign Up page is opened.
+2021-04-10 18:49:37.194 INFO  TestClass:34 - Signing Up is successful.
+2021-04-10 18:49:46.351 INFO  TestClass:36 - Searching is successful.
+2021-04-10 18:49:55.168 INFO  TestClass:38 - Searching in second page is successful.
+2021-04-10 18:50:03.107 INFO  TestClass:40 - Selecting random product from second page is successful.
+2021-04-10 18:50:11.576 INFO  TestClass:42 - Adding the selected random product to the basket is successful.
+2021-04-10 18:50:16.385 INFO  TestClass:44 - Price comparison between the basket and product is successful.
+2021-04-10 18:50:20.512 INFO  TestClass:46 - Changing the count of the product which  was added to the basket, to two.
+2021-04-10 18:50:24.058 INFO  TestClass:48 - The all products which are in basket, are removed.The test is finished successfully.
+2021-04-10 18:54:03.241 INFO  TestClass:21 - The Home Page is opened.
+2021-04-10 18:54:12.586 INFO  TestClass:30 - The Sign Up page is opened.
+2021-04-10 18:54:12.916 INFO  TestClass:34 - Signing Up is successful.
+2021-04-10 18:55:29.058 INFO  TestClass:21 - The Home Page is opened.
+2021-04-10 18:55:39.935 INFO  TestClass:30 - The Sign Up page is opened.
+2021-04-10 18:55:40.386 INFO  TestClass:34 - Signing Up is successful.
+2021-04-10 18:56:12.485 INFO  TestClass:21 - The Home Page is opened.
+2021-04-10 18:56:22.616 INFO  TestClass:30 - The Sign Up page is opened.
+2021-04-10 18:56:27.762 INFO  TestClass:34 - Signing Up is successful.
+2021-04-10 18:56:41.010 INFO  TestClass:36 - Searching is successful.
+2021-04-10 18:56:53.679 INFO  TestClass:38 - Switching to second page is successful.
+2021-04-10 18:57:00.721 INFO  TestClass:40 - Selecting random product from second page is successful.
+2021-04-10 18:57:09.130 INFO  TestClass:42 - Adding the selected random product to the basket is successful.
+2021-04-10 18:57:14.490 INFO  TestClass:44 - Price comparison between the basket and product is successful.
+2021-04-10 18:57:17.870 INFO  TestClass:46 - Changing the count of the product which  was added to the basket, to two.
+2021-04-10 18:57:21.062 INFO  TestClass:48 - The all products which are in basket, are removed.The test is finished successfully.
+2021-04-10 18:58:09.556 INFO  TestClass:21 - The Home Page is opened.
+2021-04-10 18:58:17.557 INFO  TestClass:30 - The Sign Up page is opened.
+2021-04-10 18:58:17.892 INFO  TestClass:34 - Signing Up is successful.
+2021-04-10 19:00:16.189 INFO  TestClass:21 - The Home Page is opened.
+2021-04-10 19:00:24.284 INFO  TestClass:30 - The Sign Up page is opened.
+2021-04-10 19:00:28.695 INFO  TestClass:34 - Signing Up is successful.
+2021-04-10 19:00:42.991 INFO  TestClass:36 - Searching is successful.
+2021-04-10 19:00:52.514 INFO  TestClass:38 - Switching to second page is successful.
+2021-04-10 19:01:01.167 INFO  TestClass:40 - Selecting random product from second page is successful.
+2021-04-10 19:01:09.733 INFO  TestClass:42 - Adding the selected random product to the basket is successful.
+2021-04-10 19:01:14.067 INFO  TestClass:44 - Price comparison between the basket and product is successful.
+2021-04-10 19:01:17.587 INFO  TestClass:46 - Changing the count of the product which  was added to the basket, to two.
+2021-04-10 19:01:23.959 INFO  TestClass:48 - The all products which are in basket, are removed.The test is finished successfully.
