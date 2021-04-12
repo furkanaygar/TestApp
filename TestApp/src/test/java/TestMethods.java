@@ -9,8 +9,8 @@ import org.openqa.selenium.support.ui.Select;
 
 
 public class TestMethods extends PageObject {
-    private final String E_MAIL = "justicefurkan666@gmail.com";
-    private final String PASSWORD = "Furkan66";
+    private final String E_MAIL = "YOUR_MAIL";
+    private final String PASSWORD = "YOUR_PASSWORD";
 
 
 
